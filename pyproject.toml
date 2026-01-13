@@ -3,8 +3,8 @@ requires = ["setuptools>=61.0", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "mavdataflash"
-version = "3.0.0"
+name = "mavdataflash-mkrooted256"
+version = "3.0.1"
 description = "Read, analyze and visualize *.bin flight data logs recorded by ArduPilot"
 readme = "README.md"
 requires-python = ">=3.9"
